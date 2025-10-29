@@ -180,3 +180,4 @@ __all__ = (
     "YOLOESegment",
     "v10Detect",
 )
+from .scconv import SCConv
